@@ -15,6 +15,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 let var : string = "Hello, world!";;
 ```
 
-
+Here an exemple of task list 
+- [x] Start to learning GitHub
+- [ ] Start to reviewing SQL 
 
 
